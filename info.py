@@ -28,7 +28,7 @@ DB_NAME = environ.get("DATABASE_NAME", "ak_admin_v2Bot")
 # =========================================================
 # 📢 CHANNELS & ADMINS
 # =========================================================
-ADMINS = int(environ.get("ADMINS", "7698100953"))
+ADMINS = int(environ.get("ADMINS", "7120801813"))
 
 LOG_CHANNEL = int(environ.get("LOG_CHANNEL", "-1003653363264"))
 PREMIUM_LOGS = int(environ.get("PREMIUM_LOGS", "-1003653363264"))
@@ -85,4 +85,4 @@ NO_IMG = environ.get("NO_IMG", "")
 # =========================================================
 # 🌐 WEB APP
 # =========================================================
-WEB_APP_URL = environ.get("WEB_APP_URL", "")
+WEB_APP_URL = environ.get("WEB_APP_URL", "https://pronwalizonebot-yehg.onrender.com")
